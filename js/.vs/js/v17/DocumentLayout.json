@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_windows.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rmmz_windows.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_scenes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rmmz_scenes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_sprites.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rmmz_sprites.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_managers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rmmz_managers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins\\Steal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins\\Steal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_objects.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rmmz_objects.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_core.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rmmz_core.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins\\ItemQuality.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins\\ItemQuality.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins\\ActorOverlay.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugins\\ActorOverlay.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemQuality.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins\\ItemQuality.js",
+              "RelativeDocumentMoniker": "plugins\\ItemQuality.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins\\ItemQuality.js",
+              "RelativeToolTip": "plugins\\ItemQuality.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-27T20:31:56.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Steal.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins\\Steal.js",
+              "RelativeDocumentMoniker": "plugins\\Steal.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins\\Steal.js",
+              "RelativeToolTip": "plugins\\Steal.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T05:20:49.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rmmz_sprites.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_sprites.js",
+              "RelativeDocumentMoniker": "rmmz_sprites.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_sprites.js",
+              "RelativeToolTip": "rmmz_sprites.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-02T05:16:20.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActorOverlay.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins\\ActorOverlay.js",
+              "RelativeDocumentMoniker": "plugins\\ActorOverlay.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins\\ActorOverlay.js",
+              "RelativeToolTip": "plugins\\ActorOverlay.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T15:53:38.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rmmz_scenes.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_scenes.js",
+              "RelativeDocumentMoniker": "rmmz_scenes.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_scenes.js",
+              "RelativeToolTip": "rmmz_scenes.js",
+              "ViewState": "AgIAAAQKAAAAAAAAAAAAABsKAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T07:33:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rmmz_objects.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_objects.js",
+              "RelativeDocumentMoniker": "rmmz_objects.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_objects.js",
+              "RelativeToolTip": "rmmz_objects.js",
+              "ViewState": "AgIAAHkgAAAAAAAAAAAjwJQgAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T07:30:23.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rmmz_managers.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_managers.js",
+              "RelativeDocumentMoniker": "rmmz_managers.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_managers.js",
+              "RelativeToolTip": "rmmz_managers.js",
+              "ViewState": "AgIAAL4IAAAAAAAAAAAswO0IAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T07:25:30.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "plugins.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins.js",
+              "RelativeDocumentMoniker": "plugins.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\plugins.js",
+              "RelativeToolTip": "plugins.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T07:24:47.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\main.js",
+              "RelativeDocumentMoniker": "main.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\main.js",
+              "RelativeToolTip": "main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T07:23:58.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rmmz_core.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_core.js",
+              "RelativeDocumentMoniker": "rmmz_core.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_core.js",
+              "RelativeToolTip": "rmmz_core.js",
+              "ViewState": "AgIAAOIJAAAAAAAAAAAswPkJAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T07:23:19.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rmmz_windows.js",
+              "DocumentMoniker": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_windows.js",
+              "RelativeDocumentMoniker": "rmmz_windows.js",
+              "ToolTip": "C:\\Users\\codya\\Documents\\RMMZ Project\\Project3\\js\\rmmz_windows.js",
+              "RelativeToolTip": "rmmz_windows.js",
+              "ViewState": "AgIAAIMbAAAAAAAAAAAmwKgbAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T07:15:43.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_1","characterIndex":0,"characterName":"Actor2","classId":1,"equips":[2,2,4,41,6,79,0,0,0,0],"faceIndex":0,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fynn","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},
+{"id":2,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":2,"equips":[2,0,0,4,0,6],"faceIndex":5,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nessa","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},
+{"id":3,"battlerName":"Actor1_5","characterIndex":4,"characterName":"Actor1","classId":3,"equips":[3,0,0,4,0,6],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Silas","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}},
+{"id":4,"battlerName":"Actor3_6","characterIndex":5,"characterName":"Actor3","classId":4,"equips":[4,11,0,4,0,6],"faceIndex":5,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Momo","nickname":"","note":"","profile":"","params":[],"damage":{"critical":"","elementId":"","formula":"","type":"","variance":""}}
+]
